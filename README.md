@@ -2,11 +2,16 @@
 
 一个基于 C++ 和 EasyX 图形库的迷宫生成与求解可视化程序，支持多种迷宫生成算法和路径搜索算法，并配有实时动画演示与音效。
 
+完成时间：2024年10月
 
-<img width="406" height="228" alt="2" src="https://github.com/user-attachments/assets/03fc74a3-8cb3-474c-a773-2581548352dc" />
+
+<img width="345" height="194" alt="image" src="https://github.com/user-attachments/assets/e4ce0a97-20c6-45d5-b883-da88608cfe0a" />
 
 
-<img width="408" height="228" alt="3" src="https://github.com/user-attachments/assets/1ac93f99-9c54-4a29-92fe-5dd27d12507d" />
+<img width="304" height="171" alt="image" src="https://github.com/user-attachments/assets/32c2479f-6b30-49d0-a848-541916ee4f4e" />
+
+
+
 
 
 ## 功能特性
@@ -120,8 +125,8 @@
 └── ds project.sln    # Visual Studio 解决方案
 ```
 
+<img width="303" height="171" alt="image" src="https://github.com/user-attachments/assets/f3ff7813-65a7-4754-9468-015391828096" />
 
-<img width="460" height="258" alt="1" src="https://github.com/user-attachments/assets/378853a1-f33c-456a-8096-1ce6bd5ee79d" />
 
 
 ## 构建与运行
