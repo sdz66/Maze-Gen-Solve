@@ -5,7 +5,7 @@
 完成时间：2024年10月
 
 
-<img width="345" height="194" alt="image" src="https://github.com/user-attachments/assets/e4ce0a97-20c6-45d5-b883-da88608cfe0a" />
+<img width="304" height="171" alt="image" src="https://github.com/user-attachments/assets/e4ce0a97-20c6-45d5-b883-da88608cfe0a" />
 
 
 <img width="304" height="171" alt="image" src="https://github.com/user-attachments/assets/32c2479f-6b30-49d0-a848-541916ee4f4e" />
